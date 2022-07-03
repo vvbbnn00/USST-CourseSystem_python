@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/mysql/course_system.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/service/course/course_data.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/service/user/login.py" dialect="Redshift" />
+    <file url="file://$PROJECT_DIR$/service/user/manage.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/test/test1.py" dialect="GenericSQL" />
+  </component>
+</project>
